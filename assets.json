@@ -1,0 +1,13 @@
+{
+  "police-sounds" {
+    "police-voicelines": "12930476355",
+    "police-voicelines2": "400771872",
+    "cloaker-charge": "13614426631"
+  },
+  "music": {
+    "main-menu": "2896453206",
+    "pre-game": "1836764457",
+    "get-paid": "969326723",
+    "game-over": "969327120"
+  }
+}
