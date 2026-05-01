@@ -9,5 +9,11 @@
     "pre-game": "1836764457",
     "get-paid": "969326723",
     "game-over": "969327120"
+  },
+  "music": {
+    "calm_down_stealth": "2557813321"
+    "calm_down_control": "2557814153",
+    "calm_down_anticipation": "2557816184",
+    "calm_down_assault": "2557815489",
   }
 }
