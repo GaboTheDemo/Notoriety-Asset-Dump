@@ -63,6 +63,42 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Notoriety-Asset-Dump/main/Personal%20Build/cloaker_charge.ogg"
+    },
+    {
+      "name": "Calm Down - Control",
+      "replace_ids": [
+        2557814153
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/guv28/Downloads/HalfOfLifeControl.ogg"
+    },
+    {
+      "name": "Calm Down - Assault",
+      "replace_ids": [
+        2557815489
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/guv28/Downloads/HalfOfLifeAssault.ogg"
+    },
+    {
+      "name": "Calm Down - Stealth",
+      "replace_ids": [
+        2557813321
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/guv28/Downloads/HalfOfLifeStealth.mp3"
+    },
+    {
+      "name": "Calm Down - Anticipation",
+      "replace_ids": [
+        2557816184
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/guv28/Downloads/HalfOfLifeAnticipation.ogg"
     }
   ]
 }
