@@ -2,7 +2,8 @@
   "police-sounds": {
     "police-voicelines": "12930476355",
     "police-voicelines2": "400771872",
-    "cloaker-charge": "13614426631"
+    "cloaker-charge": "13614426631",
+    "breaking-police-armor":"138259748"
   },
   "music": {
     "main-menu": "2896453206",
@@ -15,5 +16,17 @@
     "calm_down_control": "2557814153",
     "calm_down_anticipation": "2557816184",
     "calm_down_assault": "2557815489",
+    "trancer_stealth": "472833879",
+    "trancer_control": "472833818",
+    "trancer_anticipation": "472833679",
+    "trancer_assault": "472833762",
+    "champ_stealth": "2097680209",
+    "champ_control": "2094573471",
+    "champ_anticipation": "2094569738",
+    "champ_assault": "2094571850",
+    "megalomania_house_breaking_stealth":"1838696619",
+    "megalomania_control":"2538293506",
+    "megalomania_anticipation": "2538292696",
+    "megalomania_assault":"2538294258"
   }
 }
